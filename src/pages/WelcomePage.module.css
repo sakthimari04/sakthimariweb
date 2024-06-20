@@ -1,0 +1,29 @@
+/* WelcomePage.module.css */
+
+.container {
+  position: relative;
+  height: 100vh;
+}
+
+.sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 250px; /* Adjust width as needed */
+  background-color: rgba(0, 0, 0, 0.5); /* Example background color for sidebar */
+  z-index: 2; /* Ensure sidebar is above background */
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../assets/welcome-background.jpg'); /* Ensure this path is correct */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 1; /* Ensure background is below sidebar */
+}

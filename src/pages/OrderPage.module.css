@@ -1,0 +1,13 @@
+/* OrderPage.module.css */
+
+.container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .content {
+    flex-grow: 1;
+    margin-left: 250px; /* Make space for the sidebar */
+    padding: 20px;
+  }
+  
