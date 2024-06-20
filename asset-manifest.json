@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sakthimariweb/static/css/main.b4f05c9b.chunk.css",
+    "main.js": "/sakthimariweb/static/js/main.bc577fe6.chunk.js",
+    "main.js.map": "/sakthimariweb/static/js/main.bc577fe6.chunk.js.map",
+    "runtime-main.js": "/sakthimariweb/static/js/runtime-main.609d3b58.js",
+    "runtime-main.js.map": "/sakthimariweb/static/js/runtime-main.609d3b58.js.map",
+    "static/css/2.98036eff.chunk.css": "/sakthimariweb/static/css/2.98036eff.chunk.css",
+    "static/js/2.a5213630.chunk.js": "/sakthimariweb/static/js/2.a5213630.chunk.js",
+    "static/js/2.a5213630.chunk.js.map": "/sakthimariweb/static/js/2.a5213630.chunk.js.map",
+    "index.html": "/sakthimariweb/index.html",
+    "precache-manifest.1b571f760c65caa9ab05a8080663246b.js": "/sakthimariweb/precache-manifest.1b571f760c65caa9ab05a8080663246b.js",
+    "service-worker.js": "/sakthimariweb/service-worker.js",
+    "static/css/2.98036eff.chunk.css.map": "/sakthimariweb/static/css/2.98036eff.chunk.css.map",
+    "static/css/main.b4f05c9b.chunk.css.map": "/sakthimariweb/static/css/main.b4f05c9b.chunk.css.map",
+    "static/js/2.a5213630.chunk.js.LICENSE.txt": "/sakthimariweb/static/js/2.a5213630.chunk.js.LICENSE.txt",
+    "static/media/LoginPage.module.css": "/sakthimariweb/static/media/background.a140506a.jpg",
+    "static/media/WelcomePage.module.css": "/sakthimariweb/static/media/welcome-background.2e155eb8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.609d3b58.js",
+    "static/css/2.98036eff.chunk.css",
+    "static/js/2.a5213630.chunk.js",
+    "static/css/main.b4f05c9b.chunk.css",
+    "static/js/main.bc577fe6.chunk.js"
+  ]
+}
